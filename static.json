@@ -1,0 +1,10 @@
+  
+{
+    "https_only": true,
+    "headers": {
+      "/**" : {
+        "X-Author" : "strax5",
+        "Access-Control-Allow-Origin" : "*"
+      }
+    }
+}
